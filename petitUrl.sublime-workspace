@@ -1,0 +1,902 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lorem",
+				"lorem	Lorem ipsum"
+			],
+			[
+				"Mo",
+				"ModelForm	ModelForm"
+			],
+			[
+				"M",
+				"ModelForm	ModelForm"
+			],
+			[
+				"form",
+				"forms〔module〕"
+			],
+			[
+				"Art",
+				"ArticleListView〔class〕"
+			],
+			[
+				"for",
+				"forloop	Django template for loop"
+			],
+			[
+				"ma",
+				"max_size"
+			],
+			[
+				"in",
+				"ins	Tag"
+			],
+			[
+				"user",
+				"username=username"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"password",
+				"password"
+			],
+			[
+				"clean",
+				"cleaned_data〔variable〕"
+			],
+			[
+				"add",
+				"addClass〔function〕"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"get",
+				"getElementsByTagName〔function〕"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"back",
+				"background-color: 〔property〕"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"ti",
+				"title_align_center"
+			],
+			[
+				"bac",
+				"background-color: 〔property〕"
+			],
+			[
+				"lo",
+				"load"
+			],
+			[
+				"pa",
+				"path〔module〕"
+			],
+			[
+				"contact",
+				"contact_message"
+			],
+			[
+				"from",
+				"from_email"
+			],
+			[
+				"Sig",
+				"SignUpForm〔module〕"
+			],
+			[
+				"Sign",
+				"SignUpAdmin〔class〕"
+			],
+			[
+				"auto",
+				"auto_now"
+			],
+			[
+				"auto_",
+				"auto_now_add"
+			],
+			[
+				"C",
+				"Contact〔class〕"
+			],
+			[
+				"MEDIA",
+				"MEDIA_ROOT"
+			],
+			[
+				"ur",
+				"urlpatterns〔variable〕"
+			],
+			[
+				"co",
+				"contenu"
+			],
+			[
+				"m",
+				"max_length"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"Htt",
+				"HttpResponse〔module〕"
+			],
+			[
+				"session",
+				"session_destroy"
+			],
+			[
+				"sessoi",
+				"session_start"
+			],
+			[
+				"per",
+				"perso"
+			],
+			[
+				"perso",
+				"Personnage"
+			],
+			[
+				"method",
+				"method_exists"
+			],
+			[
+				"est",
+				"estEndormi"
+			],
+			[
+				"get_",
+				"get_called_class"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"right",
+				"margin-right"
+			],
+			[
+				"paddig",
+				"padding-bottom"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"class",
+				"classInfos"
+			],
+			[
+				"un",
+				"unAttributPrive"
+			],
+			[
+				"Personna",
+				"personnage"
+			],
+			[
+				"spl_auto",
+				"spl_autoload_register"
+			],
+			[
+				"do",
+				"donnees"
+			],
+			[
+				"P",
+				"Personnage"
+			],
+			[
+				"pers",
+				"personnages"
+			],
+			[
+				"_",
+				"_degats"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"my",
+				"myBananas"
+			],
+			[
+				"r",
+				"rtnVal"
+			],
+			[
+				"Si",
+				"SimpleClass"
+			],
+			[
+				"str",
+				"strtolower"
+			],
+			[
+				"strt",
+				"strtoupper"
+			],
+			[
+				"istar",
+				"istarosel_content"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"fir",
+				"first_par2"
+			],
+			[
+				"mef",
+				"mefP1"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"d",
+				"div_elt"
+			],
+			[
+				"A",
+				"AlarmClock"
+			],
+			[
+				"alm",
+				"almM"
+			],
+			[
+				"o",
+				"o2GEEK"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"pr",
+				"prototype"
+			],
+			[
+				"up",
+				"updateSeconds"
+			],
+			[
+				"__",
+				"__aDates"
+			],
+			[
+				"off",
+				"offsetX"
+			],
+			[
+				"st",
+				"storage"
+			],
+			[
+				"offset",
+				"offsetY"
+			],
+			[
+				"elem",
+				"elementsLength"
+			],
+			[
+				"scr",
+				"script	Tag"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"var",
+				"variable1"
+			],
+			[
+				"a",
+				"aRetenir"
+			],
+			[
+				"donne",
+				"donnees_first"
+			],
+			[
+				"val",
+				"valeur_input"
+			],
+			[
+				"va",
+				"valeur_input"
+			],
+			[
+				"FOR",
+				"FORCE_MOYENNE"
+			],
+			[
+				"FORCE",
+				"FORCE_MOYENNE"
+			],
+			[
+				"tr",
+				"trigger_error"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"pre",
+				"preg_match"
+			],
+			[
+				"imagec",
+				"imagecreate"
+			],
+			[
+				"imagep",
+				"imagepng"
+			],
+			[
+				"imagecre",
+				"imagecreatefromjpeg"
+			],
+			[
+				"on",
+				"onReady"
+			],
+			[
+				"exe",
+				"execute"
+			],
+			[
+				"date",
+				"date_commentaire"
+			],
+			[
+				"comm",
+				"commentaires"
+			],
+			[
+				"bille",
+				"billets"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"date_creat",
+				"date_creation"
+			],
+			[
+				"create",
+				"createTextNode"
+			],
+			[
+				"c",
+				"createTextNode"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"HTML",
+				"htmlspecialchars"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"mo",
+				"monMotDePasse"
+			],
+			[
+				"mot",
+				"motDePasse"
+			],
+			[
+				"t",
+				"type	Attr"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"n",
+				"nbRepetitions"
+			],
+			[
+				"u",
+				"ul	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 249.0,
+		"last_filter": "package",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"fil",
+				"File: New View into File"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"regu",
+				"Set Syntax: Regular Expression"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"File: Save All"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 167.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read()) ",
+			"print(\"bonjour\")"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/igorstaroseltsev/Documents/myBlog/myproject/message/static_files/css/message.css",
+		"/Users/igorstaroseltsev/Documents/myBlog/myproject/blog/templates/blog/test.html",
+		"/Users/igorstaroseltsev/Documents/myBlog/VARIATION FICHIER SETTINGS.txt",
+		"/Users/igorstaroseltsev/Documents/myBlog/myproject/templates/home.html",
+		"/Users/igorstaroseltsev/Documents/myBlog/myproject/static_in_project/ourStatic/css/blog.css",
+		"/Users/igorstaroseltsev/Documents/monBlog/djBlog/djBlog/settings/production.py",
+		"/Users/igorstaroseltsev/Documents/monBlog/djBlog/djBlog/settings/__init__.py",
+		"/Users/igorstaroseltsev/Documents/monBlog/djBlog/blog/urls.py",
+		"/Users/igorstaroseltsev/Documents/monBlog/djBlog/djBlog/urls.py",
+		"/Users/igorstaroseltsev/Documents/monBlog/djBlog/static_in_project/ourStatic/css/starter-template.css",
+		"/Users/igorstaroseltsev/Documents/jquery/doc.html",
+		"/Users/igorstaroseltsev/Documents/monBlog/djBlog/static_in_project/ourStatic/css/navbarcss2.css",
+		"/Users/igorstaroseltsev/Documents/monBlog/djBlog/static_in_project/ourStatic/css/navbarcss.css",
+		"/Users/igorstaroseltsev/Documents/monBlog/djBlog/static_in_project/ourStatic/js/myScript.js",
+		"/Users/igorstaroseltsev/Documents/monBlog/djBlog/static_in_project/ourStatic/js/test.js",
+		"/Users/igorstaroseltsev/Documents/monBlog/djBlog/commentaire/models.py",
+		"/Users/igorstaroseltsev/Documents/monBlog/djBlog/commentaire/forms.py",
+		"/Users/igorstaroseltsev/Documents/monBlog/djBlog/commentaire/templates/commentaire.html",
+		"/Users/igorstaroseltsev/Documents/monBlog/djBlog/commentaire/admin.py",
+		"/Users/igorstaroseltsev/Documents/monBlog/djBlog/commentaire/views.py",
+		"/Users/igorstaroseltsev/Documents/monBlog/djBlog/commentaire/urls.py",
+		"/Users/igorstaroseltsev/Documents/monBlog/djBlog/blog/templates/contact.html",
+		"/Users/igorstaroseltsev/Documents/monBlog/djBlog/blog/templates/blog.html",
+		"/Users/igorstaroseltsev/Documents/monBlog/djBlog/templates/base.html",
+		"/Users/igorstaroseltsev/Documents/monBlog/djBlog/djBlog/settings/base.py",
+		"/Users/igorstaroseltsev/Documents/monBlog/djBlog/djBlog/old_settings.py",
+		"/Users/igorstaroseltsev/Documents/monBlog/djBlog/maVie/templates/home.html",
+		"/Users/igorstaroseltsev/Documents/monBlog/djBlog/djBlog/settings/local.py",
+		"/Users/igorstaroseltsev/Documents/monBlog/djBlog/static_in_project/ourStatic/css/format.css",
+		"/Users/igorstaroseltsev/Documents/monBlog/djBlog/templates/starter-template.css",
+		"/Users/igorstaroseltsev/Documents/monBlog/djBlog/test.txt",
+		"/Users/igorstaroseltsev/Documents/monBlog/djBlog/myauth/views.py",
+		"/Users/igorstaroseltsev/Documents/monBlog/djBlog/myauth/forms.py",
+		"/Users/igorstaroseltsev/Documents/monBlog/djBlog/templates/navbar.html",
+		"/Users/igorstaroseltsev/Documents/monBlog/djBlog/myauth/models.py",
+		"/Users/igorstaroseltsev/Documents/monBlog/djBlog/myauth/templates/hometest.html",
+		"/Users/igorstaroseltsev/Documents/monBlog/djBlog/myauth/templates/form_register.html",
+		"/Users/igorstaroseltsev/Documents/monBlog/djBlog/djBlog/settings.py",
+		"/Users/igorstaroseltsev/Documents/monBlog/djBlog/myauth/templates/form_login.html",
+		"/Users/igorstaroseltsev/Documents/monBlog/djBlog/blog/views.py",
+		"/Users/igorstaroseltsev/Documents/monBlog/static_env/static_root/css/navbarcss.css",
+		"/Users/igorstaroseltsev/Documents/monBlog/djBlog/static_in_project/ourStatic/bootstrap.min.js",
+		"/Users/igorstaroseltsev/Documents/monBlog/djBlog/templates/import_js.html",
+		"/Users/igorstaroseltsev/Documents/monBlog/djBlog/static_in_project/ourStatic/img/blabla.txt",
+		"/Users/igorstaroseltsev/Documents/monBlog/djBlog/maVie/views.py",
+		"/Users/igorstaroseltsev/Documents/monBlog/djBlog/maVie/urls.py",
+		"/Users/igorstaroseltsev/Documents/monBlog/djBlog/templates/bootstrap_header.html",
+		"/Users/igorstaroseltsev/Documents/monBlog/djBlog/blog/forms.py",
+		"/Users/igorstaroseltsev/Documents/monBlog/djBlog/blog/models.py",
+		"/Users/igorstaroseltsev/Documents/monBlog/djBlog/templates/home.html",
+		"/Users/igorstaroseltsev/Documents/crepes/crepes_bretonnes/blog/models.py",
+		"/Volumes/USB DISK/ovh.txt",
+		"/Users/igorstaroseltsev/Documents/djce/src/templates/about.html",
+		"/Users/igorstaroseltsev/Documents/djce/src/trydjango18/settings/production.py",
+		"/Users/igorstaroseltsev/Documents/djce/src/trydjango18/settings/local.py",
+		"/Users/igorstaroseltsev/Documents/djce/src/trydjango18/settings/__init__.py",
+		"/Users/igorstaroseltsev/Documents/djce/src/letter/views.py",
+		"/Users/igorstaroseltsev/Documents/djce/src/templates/forms.html",
+		"/Users/igorstaroseltsev/Documents/djce/src/letter/forms.py",
+		"/Users/igorstaroseltsev/Documents/djce/src/static_in_pro/our_static/css/custom.css",
+		"/Users/igorstaroseltsev/Documents/djce/src/static_in_pro/our_static/css/navbar-static-top.css",
+		"/Users/igorstaroseltsev/Documents/djce/static_in_env/static_root/css/custom.css",
+		"/Users/igorstaroseltsev/Documents/djce/src/trydjango18/views.py",
+		"/Users/igorstaroseltsev/Documents/djce/src/trydjango18/urls.py",
+		"/Users/igorstaroseltsev/Documents/djce/src/templates/registration/registration_form.html",
+		"/Users/igorstaroseltsev/Documents/djce/src/templates/navbar.html",
+		"/Users/igorstaroseltsev/Documents/djce/static_in_env/static_root/css/navbar-static-top.css",
+		"/Users/igorstaroseltsev/Documents/djce/src/trydjango18/old_settings.py",
+		"/Users/igorstaroseltsev/Documents/djce/src/db.sqlite3",
+		"/Users/igorstaroseltsev/Documents/djce/src/trydjango18/settings/base.py",
+		"/Users/igorstaroseltsev/Documents/djce/src/newsletter/views.py",
+		"/Users/igorstaroseltsev/Documents/djce/src/letter/admin.py",
+		"/Users/igorstaroseltsev/Documents/djce/src/letter/models.py",
+		"/Users/igorstaroseltsev/Documents/djce/src/templates/headcss.html",
+		"/Users/igorstaroseltsev/Documents/djce/src/templates/home.html",
+		"/Users/igorstaroseltsev/Documents/djce/src/static_in_pro/our_static/img/example.txt",
+		"/Users/igorstaroseltsev/Documents/djce/src/trydjango18/settings.py",
+		"/Users/igorstaroseltsev/Documents/djce/src/templates/example_fluid.html",
+		"/Users/igorstaroseltsev/Documents/djce/src/static_in_pro/our_static/css/bootstrap.min.css",
+		"/Users/igorstaroseltsev/Documents/djce/src/templates/javascript.html",
+		"/Users/igorstaroseltsev/Documents/djce/src/templates/base.html",
+		"/Users/igorstaroseltsev/Documents/djce/src/templates/head_css.html",
+		"/Users/igorstaroseltsev/Documents/djce/src/static_in_pro/our_static/css/bootstrap.min.js",
+		"/Users/igorstaroseltsev/Documents/djce/src/letter/templates/home.html",
+		"/Users/igorstaroseltsev/Documents/crepes/visuimage/visu/formulaires.py",
+		"/Users/igorstaroseltsev/Documents/crepes/visuimage/visu/templates/visu/contact.html",
+		"/Users/igorstaroseltsev/Documents/crepes/visuimage/visu/views.py",
+		"/Users/igorstaroseltsev/Documents/crepes/visuimage/visu/templates/visu/voir_contacts.html",
+		"/Users/igorstaroseltsev/Documents/crepes/visuimage/visu/models.py",
+		"/Users/igorstaroseltsev/Documents/crepes/visuimage/visu/urls.py",
+		"/Users/igorstaroseltsev/Documents/crepes/visuimage/visuimage/settings.py",
+		"/Users/igorstaroseltsev/Documents/crepes/visuimage/visuimage/urls.py",
+		"/Users/igorstaroseltsev/Documents/crepes/crepes_bretonnes/blog/views.py",
+		"/Users/igorstaroseltsev/Documents/crepes/crepes_bretonnes/crepes_bretonnes/settings.py",
+		"/Users/igorstaroseltsev/Documents/crepes/crepes_bretonnes/crepes_bretonnes/settings.py~",
+		"/Users/igorstaroseltsev/Documents/crepes/crepes_bretonnes/blog/formulaires.py",
+		"/Users/igorstaroseltsev/Documents/crepes/crepes_bretonnes/blog/urls.py",
+		"/Users/igorstaroseltsev/Documents/crepes/crepes_bretonnes/crepes_bretonnes/urls.py",
+		"/Users/igorstaroseltsev/Documents/crepes/crepes_bretonnes/blog/templates/blog/contact.html",
+		"/Users/igorstaroseltsev/Documents/crepes/crepes_bretonnes/blog/templates/blog/voir_contacts.html",
+		"/Users/igorstaroseltsev/Documents/crepes/crepes_bretonnes/blog/admin.py",
+		"/Users/igorstaroseltsev/Documents/crepes/crepes_bretonnes/blog/templates/blog/enregistrer_article.html",
+		"/Users/igorstaroseltsev/Documents/crepes/crepes_bretonnes/blog/modeles.py",
+		"/Users/igorstaroseltsev/Documents/crepes/crepes_bretonnes/blog/templates/blog/accueil.html",
+		"/Users/igorstaroseltsev/Documents/crepes/crepes_bretonnes/blog/templates/blog/lire.html",
+		"/Users/igorstaroseltsev/Documents/crepes/crepes_bretonnes/blog/forms.py",
+		"/Users/igorstaroseltsev/Documents/crepes/crepes_bretonnes/blog/templates/blog/baseBlog.html",
+		"/Users/igorstaroseltsev/Documents/crepes/crepes_bretonnes/templates/base.html",
+		"/Users/igorstaroseltsev/Documents/crepes/crepes_bretonnes/crepes_bretonnes/views.py",
+		"/Users/igorstaroseltsev/Documents/crepes/crepes_bretonnes/views.py",
+		"/Users/igorstaroseltsev/Documents/Django/django_mytweets/README.txt",
+		"/Applications/MAMP/htdocs/symTest/mon_projet/src/a1star/firstBundle/Resources/views/Default/index.html.twig",
+		"/Applications/MAMP/htdocs/symTest/mon_projet/src/a1star/firstBundle/Controller/DefaultController.php",
+		"/Applications/MAMP/htdocs/symTest/mon_projet/src/a1star/firstBundle/Controller/BlogController.php",
+		"/Users/igorstaroseltsev/Documents/ii.html",
+		"/Applications/MAMP/htdocs/symTest/mon_projet/src/a1star/firstBundle/Resources/views/index.html.twig",
+		"/Applications/MAMP/htdocs/dossier_protege/index.html",
+		"/Applications/MAMP/htdocs/TP1PHP/index.php",
+		"/Applications/MAMP/htdocs/TP1PHP/PersonnagesManager.php",
+		"/Applications/MAMP/htdocs/TP1PHP/Magicien.php",
+		"/Applications/MAMP/htdocs/TP1PHP/Guerrier.php",
+		"/Applications/MAMP/htdocs/TP1PHP/example_static.php",
+		"/Applications/MAMP/htdocs/TP1PHP/Personnage.php",
+		"/Users/igorstaroseltsev/Documents/php_openclassroom/Model/ma2Classe.php",
+		"/Users/igorstaroseltsev/Documents/codekit-test/index.html",
+		"/Users/igorstaroseltsev/Documents/generation_php/gene2-php/Model/test.js",
+		"/Users/igorstaroseltsev/Documents/generation_php/gene2-php/Model/test.html",
+		"/Users/igorstaroseltsev/Documents/generation_php/gene2-php/Model/test.php"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 99.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pager",
+			"instance",
+			"childNodes",
+			"\"\"\"",
+			"AAA4",
+			"6px",
+			"test",
+			"inDiv",
+			"side1",
+			"    #",
+			"side2",
+			"vcolor",
+			"main",
+			"col-eq-",
+			"col",
+			"default",
+			"primary",
+			"font",
+			"$perso",
+			"  $",
+			"deconnexion",
+			"session_destroy",
+			"Location",
+			"perso",
+			"Fruit",
+			"  =",
+			"  ",
+			" ;",
+			"= ",
+			"  =",
+			"public",
+			"mefA",
+			"mefP",
+			"0",
+			"</dl>",
+			"<dl>",
+			"<dt>",
+			"</dt>",
+			"</dd>",
+			"<dd>",
+			"com",
+			"Clock",
+			"<[",
+			" #",
+			"function",
+			"']\";",
+			"pseudonyme",
+			" \"",
+			" ||",
+			" $",
+			"jeux_video",
+			"d",
+			"haystack",
+			"telephone",
+			"telephone\n",
+			"}\n",
+			"//	",
+			" (",
+			"create",
+			"height",
+			"');",
+			"01",
+			"commen",
+			"}\n",
+			"p",
+			"var[1-2]",
+			"donnees",
+			"SELECT",
+			"bl",
+			"=\"",
+			"SELECT",
+			" ,",
+			"console",
+			"'].'</",
+			">\".\"<",
+			"n",
+			"saisie"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"article",
+			"  $",
+			"mefP",
+			"mefA",
+			"",
+			"mail",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "petitUrl.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/generation_php/gene2-php/Model/test.js"
+			],
+			[
+				"scss",
+				"~/Documents/generation_php/gene2-php/Model/test.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 265.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
